@@ -1,0 +1,5 @@
+name: fiqh_dart_qawaid_fiqhiyyah_tree
+description: "Five Major Legal Maxims (Al-Qawa'id Al-Fiqhiyyah) Decision Tree"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
